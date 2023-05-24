@@ -1,23 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-3 of 668
-Shell
-Inbox
-
-Eric Muia <erick.muia.n@gmail.com>
-Attachments
-May 20, 2023, 4:33 PM (3 days ago)
-to me
-
-
-13
- Attachments
-  •  Scanned by Gmail
 #include "main.h"
 /**
  * _listlen - gets the length of linked list
@@ -137,5 +117,3 @@ ssize_t get_node_index(list_s *head, list_s *node)
 	}
 	return (-1);
 }
-nodes.c
-Displaying 0_string_functions.c.
