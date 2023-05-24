@@ -1,28 +1,6 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-3 of 668
-Shell
-Inbox
-
-Eric Muia <erick.muia.n@gmail.com>
-Attachments
-May 20, 2023, 4:33 PM (3 days ago)
-to me
-
-
-13
- Attachments
-  •  Scanned by Gmail
 #include "main.h"
 /**
- * words_count - counts the number of words in a string specified by
- *				 one or more delimiter.
- *				It also counts the length of each word and stores them in a count_array.
+ * words_count - counts the number of words in a string specified byrd and stores them in a count_array.
  * @str: the string being parsed.
  * @separators: delimiter(s) to separate the string.
  * @count_arr: Pointer to the array storing the lengths of the words.
@@ -86,5 +64,3 @@ int words_count(char *str, char *separators, unsigned int *count_arr)
 
 	return (count);
 }
-words_count.c
-Displaying 0_string_functions.c.
