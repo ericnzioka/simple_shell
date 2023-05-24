@@ -49,7 +49,7 @@ int shell_main(info_s *info, char **av)
 		exit(info->error_code);
 	}
 	return (builtin_return_value);
-
+}
 /**
  * handle_builtin - finds a builtin command
  * @info: the parameter & return info struct
