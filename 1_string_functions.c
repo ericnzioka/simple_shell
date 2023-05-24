@@ -73,5 +73,3 @@ char *_strchr(char *s, char c)
 
 	return (NULL);
 }
-1_string_functions.c
-Displaying 0_string_functions.c.
